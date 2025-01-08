@@ -24,7 +24,7 @@ chain = email_prompt | gemini_model
 st.set_page_config(page_title="📧 Email Generator", page_icon="✉️", layout="centered")
 
 # Header with emojis
-st.header("📧 Email Generator")
+st.header("📧 Email Generator App by Sreevalli")
 st.subheader("✨ This app helps you draft professional emails effortlessly.")
 
 # User input
